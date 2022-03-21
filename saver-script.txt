@@ -1,6 +1,8 @@
 ﻿ function NewTab(i,zeero) {
             window.open(
-              "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/0c4f677a-19d4-42d0-8038-add300dcd4c9/b7663206-3db5-490b-9fb9-add300dcd4cf-098d9e51-e152-495e-ae48-abaa00e44a1d.hls/2559885/"+zeero+i+".ts", "_blank");
+  //Example of a link:
+"https://d2hpwsdp0ihr0w.cloudfront.net/sessions/0c4f677a-19d4-42d0-8038-add300dcd4c9/b7663206-3db5-490b-9fb9-add300dcd4cf-098d9e51-e152-495e-ae48-abaa00e44a1d.hls/2559885/"
+              +zeero+i+".ts", "_blank");
         }
 function delay(time) {
   return new Promise(resolve => setTimeout(resolve, time));
