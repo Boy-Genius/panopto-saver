@@ -1,6 +1,9 @@
 # Panopto Saver
-sometimes the script doesnt run until you manully download the first 1-3 TS files by entering the right urls.
+This repository is made in order to save direct watch videos from the panopto cloud hosting service.
 
+NOTE:sometimes the script doesnt run until you manully download the first 1-3 TS files by entering the right urls.
+
+Instructions:
 1. Enter a video on panopto.
 2. Press Ctrl + Shift + I (or right click, "inspect element")
 3. Network => (while video is playing) Right click on ts file.
