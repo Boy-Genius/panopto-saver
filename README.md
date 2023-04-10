@@ -1,7 +1,7 @@
 # Panopto Saver
 This repository is made in order to save direct watch videos from the panopto cloud hosting service.
 
-NOTE:sometimes the script doesnt run until you manully download the first 1-3 TS files by entering the right urls.
+NOTE: sometimes the script doesnt run until you manully download the first 1-3 TS files by entering the right urls.
 
 Instructions:
 1. Enter a video on panopto.
